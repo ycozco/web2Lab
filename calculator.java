@@ -8,6 +8,7 @@ public class calculator {
     double suma(double a, double b) {
         return a + b;
     }
+
     String division(double a, double b) {
         String str = "null";
         if (b != 0) {
@@ -16,11 +17,16 @@ public class calculator {
         }
         return str;
     }
-	double resta(double a, double b) {
+
+    double resta(double a, double b) {
         return a - b;
     }
 
     double multiplicacion(double a, double b) {
         return a * b;
+    }
+
+    double mod(double a, double b) {
+        return a % b;
     }
 }
