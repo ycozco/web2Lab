@@ -8,5 +8,13 @@ public class calculator {
     double suma(double a, double b) {
         return a + b;
     }
+    String division(double a, double b) {
+        String str = "null";
+        if (b != 0) {
+        } else {
+            str = a / b + "";
+        }
+        return str;
+    }
 
 }
