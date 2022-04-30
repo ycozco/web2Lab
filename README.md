@@ -71,8 +71,11 @@
             <td><img src="https://github.com/ycozco/web2Lab/blob/main/commits%20lab1.JPG" alt="EPIS" style="width:50%; height:auto"/></td>
             <th>
             <td><img src="https://github.com/ycozco/web2Lab/blob/main/commits%20Yoset.jpeg" alt="EPIS" style="width:50%; height:auto"/></td>
-            
+            <td><img src="https://github.com/AEDO73/personalPWEB2" alt="EPIS" style="width:50%; height:auto"/></td>
+            <td><img src="https://github.com/ycozco/pruebapweb2" alt="EPIS" style="width:50%; height:auto"/></td>
     </th>
+    
+    
                   </tr></li>
 <li><a </a></li>
 <li><a </a></li>
