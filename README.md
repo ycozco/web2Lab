@@ -67,7 +67,13 @@
 </tr>
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS PROBLEMAS:
 <ul>
-<li><a </a></li>
+<li><tr>
+            <td><img src="https://github.com/ycozco/web2Lab/blob/main/commits%20lab1.JPG" alt="EPIS" style="width:50%; height:auto"/></td>
+            <th>
+            <td><img src="https://github.com/ycozco/web2Lab/blob/main/commits%20Yoset.jpeg" alt="EPIS" style="width:50%; height:auto"/></td>
+            
+    </th>
+                  </tr></li>
 <li><a </a></li>
 <li><a </a></li>
 </ul>
@@ -78,8 +84,8 @@
 <tr><td colspan="6">II. SOLUCIÓN DE CUESTIONARIO:
 <ul>
 <li>Porque nos permite trabajar en equipo, en tiempo real, nos permite compartir conocimiento con los compañeros, hace ver la colaboración de los participantes</li>
-<li><a </a></li>
-<li><a </a></li>
+<li>Nos permite completar código de diferentes usuarios.</li>
+<li>Es una herramienta que se usa en el mundo de la programación para organizar los códigos fuente.</li>
 </ul>
 </td>
 </<tr>
@@ -87,9 +93,9 @@
 </tr>
 <tr><td colspan="6">III. CONCLUSIONES:
 <ul>
-<li><a </a></li>
-<li><a </a></li>
-<li><a </a></li>
+<li>El grupo pudo crear el repositorio remoto</li>
+<li>Se realizó la guia de estudiante en GitHub.</li>
+<li>Se concatenó el codigo de los integrantes del grupo.</li>
 </ul>
 </td>
 </<tr>
