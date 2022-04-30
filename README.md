@@ -135,7 +135,6 @@
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
-<li><a </a></li>
 </ul>
 </td>
 </<tr>
