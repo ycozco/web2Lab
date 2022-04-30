@@ -38,9 +38,12 @@
 </tr>
 <tr><td colspan="6">INTEGRANTES:
 <ul>
-<li><a Yosef </a></li>
-<li><a Omar</a></li>
-<li><a Percy</a></li>
+<li> Ticllahuanaco Huacho Percy Orlando </li>
+    <li> pticllahuanacoh@unsa.edu.pe </li>
+<li>Cozco Mauri Yoset</li>
+    <li>Ycozco@unsa.edu.pe</li>
+<li>Romero Chipana Omar Cristhian</li>
+    <li>oromero@unsa.edu.pe</li>
 </ul>
 </td>
 </<tr>
@@ -74,7 +77,7 @@
 </tr>
 <tr><td colspan="6">II. SOLUCIÓN DE CUESTIONARIO:
 <ul>
-<li><a </a></li>
+<li>Porque nos permite trabajar en equipo, en tiempo real, nos permite compartir conocimiento con los compañeros, hace ver la colaboración de los participantes</li>
 <li><a </a></li>
 <li><a </a></li>
 </ul>
@@ -115,14 +118,14 @@
 
 <table>
 <theader>
-<tr><th colspan="6">CONCLUSIONES</th></tr>
+<tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>
 <tbody>
 </tr>
 <tr><td colspan="6">
 <ul>
-<li><a </a></li>
-<li><a </a></li>
+<li>https://guides.github.com/</li>
+<li>https://git-scm.com/book/es/v2</li>
 <li><a </a></li>
 </ul>
 </td>
